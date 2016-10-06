@@ -9,7 +9,10 @@
 - Mike Bostock: [Let’s Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/)
 - Kristin Henry: [Building a Custom D3 Plugin](https://github.com/KristinHenry/learning-d3.v4/tree/master/tutorial-start-with-plugin-src)
 
+## Utilities
+- [Blockup](https://github.com/gabrielflorit/blockup). Tiny tool to help you write bl.ocks in ES6 
 
+---
 
 # Articles on data visualization
 - Martin Stabe: [Why the FT creates so few clickable graphics](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4)
