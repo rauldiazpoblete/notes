@@ -3,6 +3,7 @@
 * [D3](#d3)
 * [Markdown](#markdown)
 * [Data visualization](#data-visualization)
+* [Design](#design)
 
 
 ## D3
@@ -27,4 +28,10 @@
 
 
 ## Data visualization
+- ProPublica Data Institute: [Introduction to Data Visualization](https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-datavis.pdf)
 - Martin Stabe: [Why the FT creates so few clickable graphics](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4)
+
+
+## Design
+
+- ProPublica Data Institute: [Intro to design](https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html)
