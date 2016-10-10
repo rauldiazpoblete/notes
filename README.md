@@ -15,6 +15,7 @@
 #### Modules & plugins
 - [D3 Custom Bundle](https://bl.ocks.org/mbostock/bb09af4c39c79cffcde4) using Rollup 
 - Mike Bostock: [Let’s Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/)
+- Kiernan McGowan: [A Simple D3 Plugin](https://537.io/a-simple-d3-plugin/)
 - Kristin Henry: [Building a Custom D3 Plugin](https://github.com/KristinHenry/learning-d3.v4/tree/master/tutorial-start-with-plugin-src)
 
 #### Utilities
