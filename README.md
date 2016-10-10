@@ -1,8 +1,8 @@
-# My Notes
+# Personal Notes
 
 * [D3](#d3)
 * [Markdown](#markdown)
-* [Articles on data visualization](#articles-on-data-visualization)
+* [Data visualization](#data-visualization)
 
 
 ## D3
@@ -26,5 +26,5 @@
 - [StackEdit](https://stackedit.io/). In-browser markdown editor
 
 
-## Articles on data visualization
+## Data visualization
 - Martin Stabe: [Why the FT creates so few clickable graphics](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4)
