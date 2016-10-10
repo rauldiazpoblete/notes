@@ -1,5 +1,10 @@
 # My Notes
 
+* [D3](#d3)
+* [Markdown](#markdown)
+* [Articles on data visualization](#articles-on-data-visualization)
+
+
 ## D3
 
 ### D3 v4
@@ -14,14 +19,12 @@
 ### Utilities
 - [Blockup](https://github.com/gabrielflorit/blockup). Tiny tool to help you write bl.ocks in ES6 
 
----
 
 ## Markdown
 
 - [Markdown Syntax reference](http://commonmark.org/help/)
 - [StackEdit](https://stackedit.io/). In-browser markdown editor
 
----
 
 ## Articles on data visualization
 - Martin Stabe: [Why the FT creates so few clickable graphics](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4)
