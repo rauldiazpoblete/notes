@@ -22,6 +22,9 @@
 #### Utilities
 - [Blockup](https://github.com/gabrielflorit/blockup). Tiny tool to help you write bl.ocks in ES6 
 
+#### Presentations
+- Beatriz Martínez: [D3 Intro Meetup](https://github.com/maritrinez/intro_d3_meetup/blob/master/d3_intro_meetup.pdf)
+
 
 ## Markdown
 
