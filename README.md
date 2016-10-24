@@ -32,6 +32,11 @@
 - [StackEdit](https://stackedit.io/). In-browser markdown editor
 
 
+## Web Development
+
+- [Google Web Starter Kit](https://github.com/google/web-starter-kit). Opinionated boilerplate for web development
+
+
 ## Data visualization
 - ProPublica Data Institute: [Introduction to Data Visualization](https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-datavis.pdf)
 - Martin Stabe: [Why the FT creates so few clickable graphics](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4)
