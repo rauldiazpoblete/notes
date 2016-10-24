@@ -2,6 +2,7 @@
 
 * [D3](#d3)
 * [Markdown](#markdown)
+* [Web Development](#web-development)
 * [Data visualization](#data-visualization)
 * [Design](#design)
 
@@ -41,6 +42,19 @@
 - ProPublica Data Institute: [Introduction to Data Visualization](https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-datavis.pdf)
 - Martin Stabe: [Why the FT creates so few clickable graphics](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4)
 
+### Scatterplots
+- [NYT How the U.S. and OPEC Drive Oil Price](http://www.nytimes.com/interactive/2015/09/30/business/how-the-us-and-opec-drive-oil-prices.html)
+- [NYT How Many Years Until the Home Run Record Falls?](http://www.nytimes.com/interactive/2015/04/03/sports/baseball/mlb-records.html)
+- [Across U.S. Companies, Tax Rates Vary Greatly](http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html?ref=sunday)
+- [NYT At Top Colleges, an Admissions Gap for Minorities](http://www.nytimes.com/interactive/2013/05/07/education/college-admissions-gap.html)
+- [NYT Girls Lead in Science Exam, but Not in the United States](http://www.nytimes.com/interactive/2013/02/04/science/girls-lead-in-science-exam-but-not-in-the-united-states.html)
+
+### Multiple Smalls
+- [Pro Publica Ambulances](https://projects.propublica.org/graphics/ambulances)
+- [WSJ A Field Guide to Red and Blue America](http://graphics.wsj.com/elections/2016/field-guide-red-blue-america/)
+- [NYT Gay Marriage State by State](http://www.nytimes.com/interactive/2015/03/04/us/gay-marriage-state-by-state.html)
+- [NYT Drought and Deluge in the Lower 48](http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html)
+- [NYT How the Tax Burden Has Changed](http://www.nytimes.com/interactive/2012/11/30/us/tax-burden.html)
 
 ## Design
 
