@@ -52,6 +52,7 @@
 ### Multiple Smalls
 - Pro Publica: [Ambulances for Dialysis Patients on Rise](https://projects.propublica.org/graphics/ambulances)
 - WSJ: [A Field Guide to Red and Blue America](http://graphics.wsj.com/elections/2016/field-guide-red-blue-america/)
+- Bloomberg: [Global Technology Tracker](http://www.bloomberg.com/graphics/global-technology-companies/?utm_content=graphics&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-graphics)
 - NYT: [Gay Marriage State by State](http://www.nytimes.com/interactive/2015/03/04/us/gay-marriage-state-by-state.html)
 - NYT: [Drought and Deluge in the Lower 48](http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html)
 - NYT: [How the Tax Burden Has Changed](http://www.nytimes.com/interactive/2012/11/30/us/tax-burden.html)
