@@ -67,7 +67,11 @@
 - NYT: [How the Tax Burden Has Changed](http://www.nytimes.com/interactive/2012/11/30/us/tax-burden.html)
 
 ### Maps
-- WhasingtonPost: [Maps of american infrastrucure](https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/)
+- WashingtonPost: [Maps of american infrastrucure](https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/)
+
+### Data Visualization Selections
+- WashingtonPost: [2016 in graphics](https://www.washingtonpost.com/graphics/national/2016-in-graphics/)
+- NYT: [2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 
 ## Design
 
