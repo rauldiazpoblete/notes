@@ -8,10 +8,17 @@
 - NYT: [How Many Years Until the Home Run Record Falls?](http://www.nytimes.com/interactive/2015/04/03/sports/baseball/mlb-records.html)
 - NYT: [Across U.S. Companies, Tax Rates Vary Greatly](http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html?ref=sunday)
 - NYT: [At Top Colleges, an Admissions Gap for Minorities](http://www.nytimes.com/interactive/2013/05/07/education/college-admissions-gap.html)
-- NYT: [Girls Lead in Science Exam, but Not in the United States](http://www.nytimes.com/interactive/2013/02/04/science/girls-lead-in-science-exam-but-not-in-the-united-states.html)
-- NYT: [Driving Shifts Into Reverse](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
-- Blog Post with examples: [In Praise of Connected Scatter Plots](http://www.dundas.com/support/blog/in-praise-of-connected-scatter-plots)
-- NPR: [Is There A Better Way To Pay For America's Schools?](http://www.npr.org/2016/05/01/476224759/is-there-a-better-way-to-pay-for-americas-schools)
+
+NYT: [Girls Lead in Science Exam, but Not in the United States](http://www.nytimes.com/interactive/2013/02/04/science/girls-lead-in-science-exam-but-not-in-the-united-states.html)
+
+NYT: [Driving Shifts Into Reverse](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
+![](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
+
+NPR: [Is There A Better Way To Pay For America's Schools?](http://www.npr.org/2016/05/01/476224759/is-there-a-better-way-to-pay-for-americas-schools)
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/Captura%20de%20pantalla%202017-01-04%20a%20la(s)%2011.33.55.png)
+
+Blog Post with examples: [In Praise of Connected Scatter Plots](http://www.dundas.com/support/blog/in-praise-of-connected-scatter-plots)
+
 
 ## Multiple Smalls
 - Pro Publica: [Ambulances for Dialysis Patients on Rise](https://projects.propublica.org/graphics/ambulances)
