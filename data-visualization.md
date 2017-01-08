@@ -37,4 +37,5 @@ Blog Post with examples: [In Praise of Connected Scatter Plots](http://www.dunda
 
 ## Data Visualization Selections
 - WashingtonPost: [2016 in graphics](https://www.washingtonpost.com/graphics/national/2016-in-graphics/)
+- FiveThirtyEight: [The 52 Best — And Weirdest — Charts We Made In 2016](http://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
 - NYT: [2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
