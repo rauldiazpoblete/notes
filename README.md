@@ -21,7 +21,6 @@
 - Kiernan McGowan: [Reusable and Extendable D3 Charts](https://537.io/reusable-and-extendable-d3-charts/)
 
 ### Maps
-- 
 - Mike Bostock: [Let's Make a Map](https://bost.ocks.org/mike/map/)
 - Mike Bostock: [Let's Make a Bubble Map](https://bost.ocks.org/mike/bubble-map/)
 - Mike Bostock: [Command Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c#.xa47olhrg)
