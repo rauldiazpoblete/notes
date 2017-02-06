@@ -13,7 +13,7 @@
 - [Changes in D3 4.0](https://github.com/d3/d3/blob/master/CHANGES.md)
 - Kristin Henry: Migrating to Version 4 of D3. [Part 1](https://medium.com/state-of-analytics/migrating-to-version-4-of-d3-part1-6a5e83ce8e31#.ok3uj3jh6) & [Part 2](https://medium.com/@KristinHenry/migrating-to-version-4-of-d3-part-2-modules-packages-and-plugins-b70427552fe4#.7aj6p7d5i)
 
-#### Modules & plugins
+#### Custom modules
 - [D3 Custom Bundle](https://bl.ocks.org/mbostock/bb09af4c39c79cffcde4) using Rollup 
 - Mike Bostock: [Let’s Make a (D3) Plugin](https://bost.ocks.org/mike/d3-plugin/)
 - Kristin Henry: [Building a Custom D3 Plugin](https://github.com/KristinHenry/learning-d3.v4/tree/master/tutorial-start-with-plugin-src)
@@ -25,6 +25,9 @@
 - Mike Bostock: [Let's Make a Map](https://bost.ocks.org/mike/map/)
 - Mike Bostock: [Let's Make a Bubble Map](https://bost.ocks.org/mike/bubble-map/)
 - Mike Bostock: [Command Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c#.xa47olhrg)
+
+#### Libraries & plugins
+- [D3 Ring Note](https://github.com/armollica/d3-ring-note). D3 plugin for placing circle and text annotation
 
 #### Utilities
 - [SVG Crowbar](https://github.com/NYTimes/svg-crowbar). Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file
