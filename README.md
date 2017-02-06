@@ -27,6 +27,7 @@
 - Mike Bostock: [Command Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c#.xa47olhrg)
 
 #### Utilities
+- [SVG Crowbar](https://github.com/NYTimes/svg-crowbar). Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file
 - [Blockup](https://github.com/gabrielflorit/blockup). Tiny tool to help you write bl.ocks in ES6 
 
 #### Presentations
