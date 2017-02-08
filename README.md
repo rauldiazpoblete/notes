@@ -30,6 +30,7 @@
 
 #### Utilities
 - [SVG Crowbar](https://github.com/NYTimes/svg-crowbar). Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file
+- [SVJimmy](https://mbostock.github.io/svjimmy/). Download any SVG as a PNG.
 - [Blockup](https://github.com/gabrielflorit/blockup). Tiny tool to help you write bl.ocks in ES6 
 
 #### Presentations
