@@ -35,6 +35,7 @@
 - NYT: [Drought and Deluge in the Lower 48](http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html)
 - NYT: [How the Tax Burden Has Changed](http://www.nytimes.com/interactive/2012/11/30/us/tax-burden.html)
 - WashingtonPost: [Editing the candidates’ Wikipedia pages](https://www.washingtonpost.com/graphics/politics/2016-election/presidential-wikipedias/)
+![](https://github.com/rauldiazpoblete/notes/blob/master/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.20.14.png)
 
 ## Maps
 - WashingtonPost: [Maps of american infrastrucure](https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/)
