@@ -4,17 +4,22 @@
 - Lynn Cherny: [Design For Interactive Data Visualization](http://ghostweather.slides.com/lynncherny/deck-8#/)
 
 ## Scatterplots
+
 - NYT: [How the U.S. and OPEC Drive Oil Price](http://www.nytimes.com/interactive/2015/09/30/business/how-the-us-and-opec-drive-oil-prices.html)
 
-![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/Captura%20de%20pantalla%202017-01-08%20a%20la(s)%2012.45.35.png)
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-01-08%20a%20la(s)%2012.45.35.png)
 
 - NYT: [How Many Years Until the Home Run Record Falls?](http://www.nytimes.com/interactive/2015/04/03/sports/baseball/mlb-records.html)
+
 - NYT: [Across U.S. Companies, Tax Rates Vary Greatly](http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html?ref=sunday)
+
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.49.32.png)
+
 - NYT: [At Top Colleges, an Admissions Gap for Minorities](http://www.nytimes.com/interactive/2013/05/07/education/college-admissions-gap.html)
 
 - NYT: [Girls Lead in Science Exam, but Not in the United States](http://www.nytimes.com/interactive/2013/02/04/science/girls-lead-in-science-exam-but-not-in-the-united-states.html)
 
-![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/Captura%20de%20pantalla%202017-01-04%20a%20la(s)%2011.47.09.png)
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-01-04%20a%20la(s)%2011.47.09.png)
 
 - NYT: [Driving Shifts Into Reverse](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
 
@@ -22,20 +27,28 @@
 
 - NPR: [Is There A Better Way To Pay For America's Schools?](http://www.npr.org/2016/05/01/476224759/is-there-a-better-way-to-pay-for-americas-schools)
 
-![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/Captura%20de%20pantalla%202017-01-04%20a%20la(s)%2011.33.55.png)
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-01-04%20a%20la(s)%2011.33.55.png)
 
 - Blog Post with examples: [In Praise of Connected Scatter Plots](http://www.dundas.com/support/blog/in-praise-of-connected-scatter-plots)
 
 
 ## Multiple Smalls
+
 - Pro Publica: [Ambulances for Dialysis Patients on Rise](https://projects.propublica.org/graphics/ambulances)
+
 - WSJ: [A Field Guide to Red and Blue America](http://graphics.wsj.com/elections/2016/field-guide-red-blue-america/)
+
 - Bloomberg: [Global Technology Tracker](http://www.bloomberg.com/graphics/global-technology-companies/?utm_content=graphics&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%3D=socialflow-twitter-graphics)
+
 - NYT: [Gay Marriage State by State](http://www.nytimes.com/interactive/2015/03/04/us/gay-marriage-state-by-state.html)
+
 - NYT: [Drought and Deluge in the Lower 48](http://www.nytimes.com/interactive/2012/08/11/sunday-review/drought-history.html)
+
 - NYT: [How the Tax Burden Has Changed](http://www.nytimes.com/interactive/2012/11/30/us/tax-burden.html)
+
 - WashingtonPost: [Editing the candidates’ Wikipedia pages](https://www.washingtonpost.com/graphics/politics/2016-election/presidential-wikipedias/)
-![](https://github.com/rauldiazpoblete/notes/blob/master/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.20.14.png)
+
+![](https://github.com/rauldiazpoblete/notes/blob/master/images/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.20.14.png)
 
 ## Maps
 - WashingtonPost: [Maps of american infrastrucure](https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/)
