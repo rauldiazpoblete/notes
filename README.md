@@ -1,28 +1,23 @@
 # Personal Notes
 
-* [D3](#d3)
-* [Markdown](#markdown)
-* [Web Development](#web-development)
-* [Data visualization](#data-visualization)
-* [Design](#design)
+
+### [D3](d3.md)
 
 
-## D3
-
-## Markdown
+### Markdown
 
 - [Markdown Syntax reference](http://commonmark.org/help/)
 - [StackEdit](https://stackedit.io/). In-browser markdown editor
 
 
-## Web Development
+### Web Development
 
 - [Google Web Starter Kit](https://github.com/google/web-starter-kit). Opinionated boilerplate for web development
 
 
-## [Data visualization](data-visualization.md)
+### [Data visualization](data-visualization.md)
 
 
-## Design
+### Design
 
 - ProPublica Data Institute: [Intro to design](https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html)
