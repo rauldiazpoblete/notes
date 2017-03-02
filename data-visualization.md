@@ -9,11 +9,9 @@
 
 ![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-01-08%20a%20la(s)%2012.45.35.png)
 
-- NYT: [How Many Years Until the Home Run Record Falls?](http://www.nytimes.com/interactive/2015/04/03/sports/baseball/mlb-records.html)
+- NYT: [Driving Shifts Into Reverse](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
 
-- NYT: [Across U.S. Companies, Tax Rates Vary Greatly](http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html?ref=sunday)
-
-![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.49.32.png)
+![](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
 
 - NYT: [At Top Colleges, an Admissions Gap for Minorities](http://www.nytimes.com/interactive/2013/05/07/education/college-admissions-gap.html)
 
@@ -21,9 +19,17 @@
 
 ![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-01-04%20a%20la(s)%2011.47.09.png)
 
-- NYT: [Driving Shifts Into Reverse](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
+- NYT: [How Your School District Compares](https://www.nytimes.com/interactive/2016/04/29/upshot/money-race-and-success-how-your-school-district-compares.html)
 
-![](http://4.bp.blogspot.com/-hKr9ETXwdj4/UFjJWm7daEI/AAAAAAAAAxI/O5EMLZTu5Zw/s1600/02metrics-popup-v3.jpg)
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-02%20a%20la(s)%2011.16.34.png)
+
+- NYT: [Across U.S. Companies, Tax Rates Vary Greatly](http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html?ref=sunday)
+
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.49.32.png)
+
+- NYT: [How Many Years Until the Home Run Record Falls?](http://www.nytimes.com/interactive/2015/04/03/sports/baseball/mlb-records.html)
+
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-02%20a%20la(s)%2011.19.33.png)
 
 - NPR: [Is There A Better Way To Pay For America's Schools?](http://www.npr.org/2016/05/01/476224759/is-there-a-better-way-to-pay-for-americas-schools)
 
