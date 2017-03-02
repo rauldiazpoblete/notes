@@ -15,6 +15,8 @@
 
 - NYT: [At Top Colleges, an Admissions Gap for Minorities](http://www.nytimes.com/interactive/2013/05/07/education/college-admissions-gap.html)
 
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-02%20a%20la(s)%2011.26.03.png)
+
 - NYT: [Girls Lead in Science Exam, but Not in the United States](http://www.nytimes.com/interactive/2013/02/04/science/girls-lead-in-science-exam-but-not-in-the-united-states.html)
 
 ![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-01-04%20a%20la(s)%2011.47.09.png)
