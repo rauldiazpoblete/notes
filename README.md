@@ -4,6 +4,8 @@
 
 ### [Data visualization](data-visualization.md)
 
+### [Data visualization tools](data-visualization-tools.md)
+
 
 ### [D3](d3.md)
 
