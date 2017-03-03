@@ -25,6 +25,10 @@
 
 ![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-02%20a%20la(s)%2011.16.34.png)
 
+- NYT: [Votes in 2012](https://www.nytimes.com/interactive/2016/06/10/upshot/voting-habits.html?mtrref=www.nytimes.com&gwh=5737B0DBEC90B023F3B4EA9B23B06E52&gwt=pay&_r=0)
+
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-03%20a%20la(s)%2013.25.52.png)
+
 - NYT: [Across U.S. Companies, Tax Rates Vary Greatly](http://www.nytimes.com/interactive/2013/05/25/sunday-review/corporate-taxes.html?ref=sunday)
 
 ![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.49.32.png)
