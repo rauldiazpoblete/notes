@@ -3,4 +3,4 @@
 
 
 ### Javascript
-- [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript)
+- [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
