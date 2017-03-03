@@ -9,3 +9,8 @@
 ### Icons
 
 - Google [Material Design Icons](https://material.io/icons/) 
+
+### Web Design References
+
+- [Awwwards](https://www.awwwards.com/)
+- [Site Inspire](https://www.siteinspire.com/)
