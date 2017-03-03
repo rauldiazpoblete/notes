@@ -13,9 +13,7 @@
 ### [Web Development](web-development.md)
 
 
-### Design
-
-- ProPublica Data Institute: [Intro to design](https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html)
+### [Design](design.md)
 
 
 ### Markdown
