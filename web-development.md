@@ -1,6 +1,6 @@
 ### Front end
-- [Google Web Starter Kit](https://github.com/google/web-starter-kit). Opinionated boilerplate for web development
-
+- [Google Web Starter Kit](https://github.com/google/web-starter-kit): Opinionated boilerplate for web development
+- [Materialize](http://materializecss.com/): A modern responsive front-end framework based on Material Design.
 
 ### Javascript
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)

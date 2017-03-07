@@ -91,3 +91,4 @@
 ## Resources
 - [Chartopedia](http://www.anychart.com/chartopedia/)
 - [Visage Data 101](https://visage.co/category/data-101/)
+- Lena Groeger: [Let's make some GIFs](https://github.com/lenagroeger/gifs)
