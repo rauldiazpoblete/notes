@@ -72,6 +72,12 @@
 
 ## Scrolling
 
+- Mike Bostock: [How to Scroll](https://bost.ocks.org/mike/scroll/)
+
+- Jim Vallandingham: [Scrolling In Data Visualization](http://vallandingham.me/scroll_talk/examples/)
+
+- R2D3: [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
 - The Guardian: [Homan Square. A portrait of Chicago’s detainees](https://www.theguardian.com/us-news/ng-interactive/2015/oct/19/homan-square-chicago-police-detainees)
 
 - Tampa Bay Times: [Why Pinellas County is the worst place in Florida...](http://www.tampabay.com/projects/2015/investigations/pinellas-failure-factories/chart-failing-black-students/)
@@ -79,6 +85,11 @@
 ![](https://github.com/rauldiazpoblete/notes/blob/master/images/Captura%20de%20pantalla%202017-03-03%20a%20la(s)%2016.50.21.png)
 
 - WashingtonPost: [How Dry is California](https://www.washingtonpost.com/graphics/national/drought-in-southwest/)
+
+### Libraries
+
+- [Waypoints](http://imakewebthings.com/waypoints/guides/getting-started/)
+- [Graph scroll](https://1wheel.github.io/graph-scroll/)
 
 
 ## Data Visualization Selections
