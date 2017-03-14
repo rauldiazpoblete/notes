@@ -98,6 +98,7 @@
 - FiveThirtyEight: [The 52 Best — And Weirdest — Charts We Made In 2016](http://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
 - FlowingData: [Best Data Visualization Projects of 2016](http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/)
 - NYT: [2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
+- NiemanLab: [Data visualization in mobiles](http://www.niemanlab.org/2016/03/small-screens-full-art-despite-their-size-smartphones-open-up-new-opportunities-for-interactives/)
 
 ## Resources
 - [Chartopedia](http://www.anychart.com/chartopedia/)
