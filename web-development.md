@@ -5,6 +5,8 @@
 ### Javascript
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
+### Jekyll
+- [Integrating Gulp into Your Jekyll Workflow](https://robwise.github.io/blog/jekyll-and-gulp)
 
 ### Accessibility
 - [A11Y Project](http://a11yproject.com/): A community-driven effort to make web accessibility easier.
