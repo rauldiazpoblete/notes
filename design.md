@@ -6,6 +6,8 @@
 
 - ProPublica Data Institute: [Intro to design](https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html)
 
+- [UI Design Patterns](http://ui-patterns.com/patterns)
+
 ### Icons
 
 - Google [Material Design Icons](https://material.io/icons/) 
