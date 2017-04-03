@@ -93,6 +93,7 @@
 
 
 ## Data Visualization Selections
+- [Malofiej25](https://iguacel.github.io/malofiej/index.html)
 - NYT: [2016: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2016/12/28/us/year-in-interactive-graphics.html)
 - WashingtonPost: [2016 in graphics](https://www.washingtonpost.com/graphics/national/2016-in-graphics/)
 - FiveThirtyEight: [The 52 Best — And Weirdest — Charts We Made In 2016](http://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
