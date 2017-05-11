@@ -7,6 +7,7 @@
 
 ### Jekyll
 - [Integrating Gulp into Your Jekyll Workflow](https://robwise.github.io/blog/jekyll-and-gulp)
+- [How I'm using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
 
 ### Accessibility
 - [A11Y Project](http://a11yproject.com/): A community-driven effort to make web accessibility easier.
