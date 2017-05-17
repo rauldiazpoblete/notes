@@ -25,3 +25,5 @@
 ### Sketch resources
 
 - [Bootstrap 4 UI Kit for Sketch](https://sketchrepo.com/free-sketch/bootstrap-4-grid-freebie/)
+- [Day Player plugin](https://github.com/tylergaw/day-player). Create placeholder images from online services.
+- [Content Generator plugin](https://github.com/timuric/Content-generator-sketch-plugin). Allows you quickly create dummy data such as avatars, names, geo location data etc.
