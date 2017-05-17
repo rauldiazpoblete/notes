@@ -1,12 +1,17 @@
 ### Design references
 
-- Google [Material Design Guidelines](https://material.io/guidelines/)
+- Google Material [Design Guidelines](https://material.io/guidelines/)
 
 - U.S. [Web Design Standards](https://standards.usa.gov/getting-started/)
 
 - ProPublica Data Institute: [Intro to design](https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html)
 
 - [UI Design Patterns](http://ui-patterns.com/patterns)
+
+### Color
+
+- Google Material [Color Guidelines](https://material.io/guidelines/style/color.html#color-color-palette)
+- [Coolors](https://coolors.co/) color schemes generator
 
 ### Icons
 
