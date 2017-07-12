@@ -1,4 +1,5 @@
 ### Front end
+- [Grab Front End Guide](https://github.com/grab/front-end-guide): Study guide and introduction to the modern front end stack.
 - [Google Web Starter Kit](https://github.com/google/web-starter-kit): Opinionated boilerplate for web development
 - [Materialize](http://materializecss.com/): A modern responsive front-end framework based on Material Design.
 
