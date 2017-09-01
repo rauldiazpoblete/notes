@@ -64,6 +64,9 @@
 
 ![](https://github.com/rauldiazpoblete/notes/blob/master/images/Captura%20de%20pantalla%202017-03-01%20a%20la(s)%2018.20.14.png)
 
+- NYT: [Even With Affirmative Action, Blacks & Hispanics Are More Underrepresented at Top Colleges Than 35 Years Ago](https://www.nytimes.com/interactive/2017/08/24/us/affirmative-action.html)
+
+
 ## Maps
 
 - WashingtonPost: [Maps of american infrastrucure](https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/)
