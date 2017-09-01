@@ -1,7 +1,11 @@
 # Data visualization
+
 - ProPublica Data Institute: [Introduction to Data Visualization](https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-datavis.pdf)
+
 - Martin Stabe: [Why the FT creates so few clickable graphics](https://www.ft.com/content/c62b21c6-7feb-11e6-8e50-8ec15fb462f4)
+
 - Lynn Cherny: [Design For Interactive Data Visualization](http://ghostweather.slides.com/lynncherny/deck-8#/)
+
 
 ## Scatterplots
 
@@ -66,12 +70,15 @@
 
 - NYT: [Even With Affirmative Action, Blacks & Hispanics Are More Underrepresented at Top Colleges Than 35 Years Ago](https://www.nytimes.com/interactive/2017/08/24/us/affirmative-action.html)
 
+![](https://github.com/rauldiazpoblete/notes/blob/master/images/Captura%20de%20pantalla%202017-09-01%20a%20las%2020.04.19.png)
+
 
 ## Maps
 
 - WashingtonPost: [Maps of american infrastrucure](https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/)
 
 - ProPublica: [Killing The Colorado. Explore the Robot River](https://projects.propublica.org/killing-the-colorado/explore-the-river#big-thompson-project)
+
 
 ## Scrolling
 
@@ -89,6 +96,7 @@
 
 - WashingtonPost: [How Dry is California](https://www.washingtonpost.com/graphics/national/drought-in-southwest/)
 
+
 ### Libraries
 
 - [Waypoints](http://imakewebthings.com/waypoints/guides/getting-started/)
@@ -103,6 +111,7 @@
 - FlowingData: [Best Data Visualization Projects of 2016](http://flowingdata.com/2016/12/29/best-data-visualization-projects-of-2016/)
 - NYT: [2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 - NiemanLab: [Data visualization in mobiles](http://www.niemanlab.org/2016/03/small-screens-full-art-despite-their-size-smartphones-open-up-new-opportunities-for-interactives/)
+
 
 ## Resources
 - [Chartopedia](http://www.anychart.com/chartopedia/)
