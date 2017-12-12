@@ -50,6 +50,10 @@
 
 ## Multiple Smalls
 
+- WashingtonPost: [The electoral college misrepresents every state, but not as much as you may think](https://www.washingtonpost.com/graphics/politics/how-fair-is-the-electoral-college/)
+
+![](https://raw.githubusercontent.com/rauldiazpoblete/notes/master/images/Captura%20de%20pantalla%202017-12-12%20a%20las%2011.31.00.png)
+
 - Pro Publica: [Ambulances for Dialysis Patients on Rise](https://projects.propublica.org/graphics/ambulances)
 
 - WSJ: [A Field Guide to Red and Blue America](http://graphics.wsj.com/elections/2016/field-guide-red-blue-america/)
