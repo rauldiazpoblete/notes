@@ -79,6 +79,8 @@
 
 - ProPublica: [Killing The Colorado. Explore the Robot River](https://projects.propublica.org/killing-the-colorado/explore-the-river#big-thompson-project)
 
+- The Guardian: [Want to fix gun violence in America? Go local](https://www.theguardian.com/us-news/ng-interactive/2017/jan/09/special-report-fixing-gun-violence-in-america)
+
 
 ## Scrolling
 
