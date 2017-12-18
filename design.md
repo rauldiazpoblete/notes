@@ -8,6 +8,10 @@
 
 - [UI Design Patterns](http://ui-patterns.com/patterns)
 
+### UI Resources
+
+- [Froala Design Blocks](https://www.froala.com/design-blocks)
+
 ### Color
 
 - Google Material [Color Guidelines](https://material.io/guidelines/style/color.html#color-color-palette)
