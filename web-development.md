@@ -11,6 +11,8 @@
 
 #### Vue.js
 - [Complete Vue JS 2 Course for Students WITHOUT ES6 foundation](https://www.udemy.com/vuejs-for-students-with-zero-es6-foundation/?siteID=QZaBth_yPOQ-ZHo59WcIgbt0Vt4UDlKVfA&LSNPUBID=QZaBth%2FyPOQ)
+- [Getting Started with Vuex: Managing State in Vue.js](https://sabe.io/tutorials/getting-started-with-vuex)
+- [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
 - [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/nuxtjs-vuejs-on-steroids/?siteID=QZaBth_yPOQ-Ahd1w1xlJuy06oYw2_.vTw&LSNPUBID=QZaBth%2FyPOQ)
 
 ### Jekyll
