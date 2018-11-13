@@ -85,6 +85,8 @@
 
 - The Guardian: [Want to fix gun violence in America? Go local](https://www.theguardian.com/us-news/ng-interactive/2017/jan/09/special-report-fixing-gun-violence-in-america)
 
+- NY Times: [Sizing Up the 2018 Blue Wave](https://www.nytimes.com/interactive/2018/11/07/us/politics/how-democrats-took-the-house.html)
+
 
 ## Scrolling
 
