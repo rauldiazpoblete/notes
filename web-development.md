@@ -14,7 +14,7 @@
 - [Getting Started with Vuex: Managing State in Vue.js](https://sabe.io/tutorials/getting-started-with-vuex)
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
 - [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/nuxtjs-vuejs-on-steroids/?siteID=QZaBth_yPOQ-Ahd1w1xlJuy06oYw2_.vTw&LSNPUBID=QZaBth%2FyPOQ)
-- Vue Tips
+- [Vue Tips](vue-tips.md)
 
 #### Webpack
 - [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://www.valentinog.com/blog/webpack-tutorial/)
