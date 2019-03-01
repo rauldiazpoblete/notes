@@ -8,6 +8,7 @@
 
 ### Javascript
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [JS Documentation with JSDoc & Documentation.js](https://medium.com/4thought-studios/documenting-javascript-projects-f72429da2eea)
 
 #### Vue
 - [Complete Vue JS 2 Course for Students WITHOUT ES6 foundation](https://www.udemy.com/vuejs-for-students-with-zero-es6-foundation/?siteID=QZaBth_yPOQ-ZHo59WcIgbt0Vt4UDlKVfA&LSNPUBID=QZaBth%2FyPOQ)
