@@ -63,6 +63,7 @@ In this [article](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualizatio
 - [Plottable](http://plottablejs.org/): built on top of D3, Plottable gives you a set of flexible, premade components that you can combine and rearrange to build charts.
 
 ## Data parsing
+- [Quartz guide to bad data](https://github.com/Quartz/bad-data-guide)
 - [Open Refine](http://openrefine.org/): a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 - [Country guesser](https://countries.zeto.io/): guess countries based on input, return ISO code
 - [Data parsing example with Nokogiri](https://github.com/civio/boe/tree/master/greencards)
