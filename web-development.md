@@ -47,5 +47,3 @@
 ## SVG
 - [Use colored SVG icons](https://github.com/rauldiazpoblete/notes/wiki/Use-colored-SVG-icons)
 
-## Data parsing
-- [Nokogiri Example](https://github.com/civio/boe/tree/master/greencards)
