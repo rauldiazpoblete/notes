@@ -65,6 +65,7 @@ In this [article](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualizatio
 ## Data parsing
 - [Open Refine](http://openrefine.org/): a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 - [Country guesser](https://countries.zeto.io/): guess countries based on input, return ISO code
+- [Data parsing example with Nokogiri](https://github.com/civio/boe/tree/master/greencards)
 
 ## Color tools
 - [ColorBrewer](http://colorbrewer2.org/): color advice for cartography
