@@ -7,8 +7,6 @@
 
 ## [Data visualization tools](data-visualization-tools.md)
 
-## [D3](d3.md)
-
 ## [Design](design.md)
 
 ## Markdown
