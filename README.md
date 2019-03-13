@@ -1,27 +1,22 @@
 # Personal Notes
 
 
+## [Web Development](web-development.md)
 
-### [Data visualization](data-visualization.md)
+## [Data visualization](data-visualization.md)
 
-### [Data visualization tools](data-visualization-tools.md)
+## [Data visualization tools](data-visualization-tools.md)
 
+## [D3](d3.md)
 
-### [D3](d3.md)
+## [Design](design.md)
 
-
-### [Web Development](web-development.md)
-
-
-### [Design](design.md)
-
-
-### Markdown
+## Markdown
 
 - [Markdown Syntax reference](http://commonmark.org/help/)
 - [StackEdit](https://stackedit.io/). In-browser markdown editor
 
-### Video
+## Video
 
 - Download Youtube videos:
   - Install youtube-dl: `$ brew install youtube-dl`
