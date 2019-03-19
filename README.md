@@ -9,12 +9,16 @@
 
 ## [Design](design.md)
 
-## Markdown
+## Other
 
+#### Command Line
+- [Bash Commands Guide](https://medium.com/@duruldalkanat/bash-commands-guide-129c81cbfe87)
+
+#### Markdown
 - [Markdown Syntax reference](http://commonmark.org/help/)
 - [StackEdit](https://stackedit.io/). In-browser markdown editor
 
-## Video
+#### Video
 
 - Download Youtube videos:
   - Install youtube-dl: `$ brew install youtube-dl`
