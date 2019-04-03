@@ -71,6 +71,7 @@ In this [article](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualizatio
   - [Quick dive into Pandas for Data Science](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
   - [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
   - [Pandas cheat sheet](https://morphocode.com/pandas-cheat-sheet/)
+  - [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)
 
 ## Color tools
 - [ColorBrewer](http://colorbrewer2.org/): color advice for cartography
