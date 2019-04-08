@@ -36,6 +36,7 @@
 ## Jekyll
 - [Integrating Gulp into Your Jekyll Workflow](https://robwise.github.io/blog/jekyll-and-gulp)
 - [How I'm using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
+- [13 Steps to a Faster Jekyll Website](https://wiredcraft.com/blog/make-jekyll-fast)
 - [JAMstack](https://jamstack.org/)
 
 ## Content Managment
