@@ -51,3 +51,6 @@
 ## SVG
 - [Use colored SVG icons](https://github.com/rauldiazpoblete/notes/wiki/Use-colored-SVG-icons)
 
+## Tools
+
+- [CORS Proxy](https://cors.io/)
