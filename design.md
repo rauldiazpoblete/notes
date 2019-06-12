@@ -1,12 +1,15 @@
 ### Design references
 
 - Google Material [Design Guidelines](https://material.io/guidelines/)
-
 - U.S. [Web Design Standards](https://standards.usa.gov/getting-started/)
-
 - ProPublica Data Institute: [Intro to design](https://propublica.s3.amazonaws.com/projects/datainstitute/lena/designforj/designforj.html)
-
 - [UI Design Patterns](http://ui-patterns.com/patterns)
+
+### Design systems
+
+- IBM's [Carbon Design System](https://www.carbondesignsystem.com/)
+- [Shopify Polaris](https://polaris.shopify.com/)
+- Alibaba's [Ant Design](https://ant.design/)
 
 ### UI Resources
 
