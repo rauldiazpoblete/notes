@@ -11,6 +11,9 @@
 
 ## Other
 
+#### Agile
+- [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+
 #### Command Line
 - [Bash Commands Guide](https://medium.com/@duruldalkanat/bash-commands-guide-129c81cbfe87)
 
