@@ -8,6 +8,7 @@
 ### Design systems
 
 - IBM's [Carbon Design System](https://www.carbondesignsystem.com/)
+- Salesforce [Lightning Design System](https://lightningdesignsystem.com/)
 - [Shopify Polaris](https://polaris.shopify.com/)
 - Alibaba's [Ant Design](https://ant.design/)
 
