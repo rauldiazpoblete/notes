@@ -55,6 +55,10 @@ In this [article](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualizatio
 ### Presentations
 - Beatriz Martínez: [D3 Intro Meetup](https://github.com/maritrinez/intro_d3_meetup/blob/master/d3_intro_meetup.pdf)
 
+### D3 + Vue
+- [Composing D3 Visualizations With Vue.js](https://medium.com/tyrone-tudehope/composing-d3-visualizations-with-vue-js-c65084ccb686)
+- [D3 vs Vue examples](https://github.com/CorpGlory/d3vue)
+- [How to create, publish and use your own VueJS Component library on NPM](https://medium.com/justfrontendthings/how-to-create-and-publish-your-own-vuejs-component-library-on-npm-using-vue-cli-28e60943eed3)
 
 ## Charts frameworks
 - NPR [dailygraphics](https://github.com/nprapps/dailygraphics): a framework for creating and deploying responsive graphics suitable for publishing inside a CMS with pym.js.
