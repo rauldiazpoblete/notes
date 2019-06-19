@@ -26,12 +26,29 @@
 - [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 - [Webpack config generator](https://generatewebpackconfig.netlify.com/)
 
-### Full-Stack
-- [MongoDB, GraphQL, Node & Express](mongodb-graphql-node-express.md)
-
 ## CSS
  - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
  - CSS Tricks: [BEM 101](https://css-tricks.com/bem-101/)
+
+## Full-Stack
+- [MongoDB, GraphQL, Node & Express](mongodb-graphql-node-express.md)
+
+## Elasticsearch
+- [Elasticsearch repository](https://github.com/elastic/elasticsearch)
+
+### Concepts
+- [Index](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started-concepts.html#_index): a collection of documents that have somewhat similar characteristics (customer data or product catalog).
+- [Document](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started-concepts.html#_document): basic unit of information that can be indexed expressed in JSON (a single customer or product).
+
+### Elasticsearch & Node.js
+- [Elasticsearch client for Node.js](https://github.com/elastic/elasticsearch-js)
+- Tutorial: [Using Node.js & Elasticsearch to search GitHub](https://zaiste.net/nodejs_elasticsearch_github_setup/)
+- Tutorial: [Build a Search Engine with Node.js and Elasticsearch](https://www.sitepoint.com/search-engine-node-elasticsearch/)
+
+### Elasticsearch & GraphQL
+- [Elasticsearch API via GraphQL](https://github.com/graphql-compose/graphql-compose-elasticsearch/)
+- Tutorial: [Add ElasticSearch to GraphQL API](https://gonehybrid.com/ionic-4-appsync-add-elasticsearch-to-graphql-api-part-6/)
+
 
 ## Jekyll
 - [Integrating Gulp into Your Jekyll Workflow](https://robwise.github.io/blog/jekyll-and-gulp)
