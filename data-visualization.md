@@ -120,6 +120,9 @@
 - NYT: [2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
 - NiemanLab: [Data visualization in mobiles](http://www.niemanlab.org/2016/03/small-screens-full-art-despite-their-size-smartphones-open-up-new-opportunities-for-interactives/)
 
+## Data Visualization Style Guides
+- [Sunlight Foundation Style Guide](https://github.com/amycesal/dataviz-style-guide/blob/master/Sunlight-StyleGuide-DataViz.pdf)
+- [London DataStore Data Design Guidelines](https://data.london.gov.uk/blog/city-intelligence-data-design-guidelines/)
 
 ## Resources
 - [DataViz Project](https://datavizproject.com/)
