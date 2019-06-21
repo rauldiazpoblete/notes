@@ -71,6 +71,7 @@ In this [article](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualizatio
 - [Open Refine](http://openrefine.org/): a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.
 - [Country guesser](https://countries.zeto.io/): guess countries based on input, return ISO code
 - [Data parsing example with Nokogiri](https://github.com/civio/boe/tree/master/greencards)
+- [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - Pandas:
   - [Quick dive into Pandas for Data Science](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
   - [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
