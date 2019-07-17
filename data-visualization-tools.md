@@ -80,5 +80,6 @@ In this [article](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualizatio
 
 ## Color tools
 - [ColorBrewer](http://colorbrewer2.org/): color advice for cartography
+- [Chroma.js Color Palette Helper](https://gka.github.io/palettes/)
 - [I Want Hue](http://tools.medialab.sciences-po.fr/iwanthue/): Colors for data scientists. Generate and refine palettes of optimally distinct colors.
 - [Colorgolical](http://vrl.cs.brown.edu/color)
