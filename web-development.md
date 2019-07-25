@@ -66,6 +66,7 @@
 ## Content Managment
 
 - [Strapi](https://strapi.io/): Open-source Content Management Framework to build powerful API with no effort.
+- [Dato CMS](https://www.datocms.com/)
 
 ## Accessibility
 - [A11Y Project](http://a11yproject.com/): A community-driven effort to make web accessibility easier.
