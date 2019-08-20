@@ -72,6 +72,7 @@
 - [A11Y Project](http://a11yproject.com/): A community-driven effort to make web accessibility easier.
 - VoxMedia [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 - [Tenon](https://tenon.io/): Accessibility validator.
+- [ACR Toolkit](https://www.paciellogroup.com/toolkit/): Accessibility testing tool.
 
 ## SVG
 - [Use colored SVG icons](https://github.com/rauldiazpoblete/notes/wiki/Use-colored-SVG-icons)
