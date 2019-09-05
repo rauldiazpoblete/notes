@@ -80,3 +80,4 @@
 ## Tools
 
 - [CORS Proxy](https://cors.io/)
+- [JSON Generator](https://next.json-generator.com/)
