@@ -17,6 +17,7 @@
 - [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/nuxtjs-vuejs-on-steroids/?siteID=QZaBth_yPOQ-Ahd1w1xlJuy06oYw2_.vTw&LSNPUBID=QZaBth%2FyPOQ)
 - [Vue Tips](vue-tips.md)
 - [Vue Essentials Cheat Sheet](https://www.vuemastery.com/vue-cheat-sheet/)
+- [Element UI](https://element.eleme.io/#/en-US)
 
 ### React
 - [Styled system](https://jxnblk.com/styled-system/)
