@@ -83,3 +83,4 @@ In this [article](https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualizatio
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/)
 - [I Want Hue](http://tools.medialab.sciences-po.fr/iwanthue/): Colors for data scientists. Generate and refine palettes of optimally distinct colors.
 - [Colorgolical](http://vrl.cs.brown.edu/color)
+- Datawrapper: [Your Friendly Guide to Colors in Data Visualisation](https://blog.datawrapper.de/colorguide/)
