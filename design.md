@@ -11,6 +11,7 @@
 - Salesforce [Lightning Design System](https://lightningdesignsystem.com/)
 - [Shopify Polaris](https://polaris.shopify.com/)
 - Alibaba's [Ant Design](https://ant.design/)
+- Atlasian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
 
 ### UI Resources
 
