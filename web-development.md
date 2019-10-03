@@ -9,6 +9,7 @@
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [JS Documentation with JSDoc & Documentation.js](https://medium.com/4thought-studios/documenting-javascript-projects-f72429da2eea)
+- StackOverflow Blog: [Practical Ways to Write Better JavaScript](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
 
 ### Vue
 - [Complete Vue JS 2 Course for Students WITHOUT ES6 foundation](https://www.udemy.com/vuejs-for-students-with-zero-es6-foundation/?siteID=QZaBth_yPOQ-ZHo59WcIgbt0Vt4UDlKVfA&LSNPUBID=QZaBth%2FyPOQ)
