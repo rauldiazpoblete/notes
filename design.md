@@ -12,6 +12,7 @@
 - [Shopify Polaris](https://polaris.shopify.com/)
 - Alibaba's [Ant Design](https://ant.design/)
 - Atlasian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
+- [Website Style Guide Resources](http://styleguides.io/): Real life pattern libraries, code standards documents and content style guides.
 
 ### UI Resources
 
