@@ -66,7 +66,7 @@
 - [JAMstack](https://jamstack.org/)
 
 ## Content Managment
-
+- [CosmicJS](https://www.cosmicjs.com/)
 - [Strapi](https://strapi.io/): Open-source Content Management Framework to build powerful API with no effort.
 - [Dato CMS](https://www.datocms.com/)
 
