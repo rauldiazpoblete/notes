@@ -63,12 +63,13 @@
 - [Integrating Gulp into Your Jekyll Workflow](https://robwise.github.io/blog/jekyll-and-gulp)
 - [How I'm using Jekyll in 2016](https://mademistakes.com/articles/using-jekyll-2016/)
 - [13 Steps to a Faster Jekyll Website](https://wiredcraft.com/blog/make-jekyll-fast)
-- [JAMstack](https://jamstack.org/)
 
 ## Content Managment
 - [CosmicJS](https://www.cosmicjs.com/)
 - [Strapi](https://strapi.io/): Open-source Content Management Framework to build powerful API with no effort.
 - [Dato CMS](https://www.datocms.com/)
+- [JAMstack](https://jamstack.org/)
+- [New to JAMstack? Everything You Need to Know to Get Started](https://snipcart.com/blog/jamstack)
 
 ## Accessibility
 - [A11Y Project](http://a11yproject.com/): A community-driven effort to make web accessibility easier.
