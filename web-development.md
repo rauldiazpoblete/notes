@@ -65,6 +65,7 @@
 - [13 Steps to a Faster Jekyll Website](https://wiredcraft.com/blog/make-jekyll-fast)
 
 ## Content Managment
+- [Storyblock](https://www.storyblok.com/)
 - [CosmicJS](https://www.cosmicjs.com/)
 - [Strapi](https://strapi.io/): Open-source Content Management Framework to build powerful API with no effort.
 - [Dato CMS](https://www.datocms.com/)
