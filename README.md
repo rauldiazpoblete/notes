@@ -11,6 +11,11 @@
 
 ## Other
 
+#### Git
+- [Git from Beguinner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
+- Atlassian's [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview)
+- [List of Git commands](https://github.com/bpassos/git-commands)
+
 #### Agile
 - [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 
