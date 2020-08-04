@@ -14,6 +14,7 @@
 - Atlasian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
 - Hubspot's [Canvas](https://canvas.hubspot.com/)
 - [Website Style Guide Resources](http://styleguides.io/): Real life pattern libraries, code standards documents and content style guides.
+- Airbnb's [Building a Visual Language](https://airbnb.design/building-a-visual-language/)
 
 ### UI Resources
 
