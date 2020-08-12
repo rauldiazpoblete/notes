@@ -12,7 +12,7 @@
 ## Other
 
 #### Setup
-- [Mac Setup](https://sourabhbajaj.com/mac-setup/)
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
 
 #### Git
 - [Git from Beguinner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
