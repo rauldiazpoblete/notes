@@ -11,6 +11,9 @@
 
 ## Other
 
+#### Setup
+- [Mac Setup](https://sourabhbajaj.com/mac-setup/)
+
 #### Git
 - [Git from Beguinner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
 - Atlassian's [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview)
