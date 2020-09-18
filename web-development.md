@@ -29,6 +29,13 @@
 - [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 - [Webpack config generator](https://generatewebpackconfig.netlify.com/)
 
+### Micro-frontends
+- [micro-frontends.org](https://micro-frontends.org/)
+- [DAZN: Adopting a Micro-frontends architecture](https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3)
+- [Martin Fowler:_ Micro Frontends](https://www.martinfowler.com/articles/micro-frontends.html)
+- [Building Micro Frontends with React, Vue, and Single-spa](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
+
+
 ## CSS
  - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css)
  - CSS Tricks: [BEM 101](https://css-tricks.com/bem-101/)
