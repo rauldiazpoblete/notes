@@ -6,6 +6,7 @@
 
 ## Javascript
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Javascript.info](https://javascript.info/)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [JS Documentation with JSDoc & Documentation.js](https://medium.com/4thought-studios/documenting-javascript-projects-f72429da2eea)
