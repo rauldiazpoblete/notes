@@ -29,6 +29,9 @@
 - [Markdown Syntax reference](http://commonmark.org/help/)
 - [StackEdit](https://stackedit.io/). In-browser markdown editor
 
+#### Data
+- [R for Data Science](https://r4ds.had.co.nz/index.html)
+
 #### Video
 
 - Download Youtube videos:
